@@ -1,0 +1,15 @@
+# Build outputs
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.apk
+*.ipa
+.DS_Store
+
+# SDK headers (large, not needed in repo)
+.sdk-headers/
+# Logs
+logs/
+# Node modules
+node_modules/
